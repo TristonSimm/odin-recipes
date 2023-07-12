@@ -2,12 +2,13 @@
 
 h1 {
     text-align: center;
-    color: darkgreen;
+    color: rgb(97, 255, 97);
     font-weight: bold;
+    background-color: black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.link {
-    text-emphasis: none;
-    text-align: center;
+ul {
+    font-weight: bold;
+    font-size: large;
 }
