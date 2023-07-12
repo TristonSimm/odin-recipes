@@ -1,6 +1,6 @@
 
 
-h1 {
+.headline {
     text-align: center;
     color: rgb(97, 255, 97);
     font-weight: bold;
@@ -11,4 +11,22 @@ h1 {
 ul {
     font-weight: bold;
     font-size: large;
+}
+
+.recipe-head {
+    text-align: center;
+    font-weight: bold;
+    color: blueviolet;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.descript-para {
+    text-align: justify;
+    color: rgb(255, 122, 28);
+    background-color: rgb(5, 0, 0);
 }
